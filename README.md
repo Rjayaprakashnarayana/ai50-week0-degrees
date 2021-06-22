@@ -1,0 +1,1 @@
+# ai50-week0-degrees
